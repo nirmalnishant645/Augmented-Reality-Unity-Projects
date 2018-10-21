@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: e0950137b2314234280599a777fbd8d5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EndFeeler
+    100004: EndHead
+    100006: EndHips
+    100008: EndLEar3
+    100010: EndLFoot
+    100012: EndLHand
+    100014: EndLToe
+    100016: EndREar3
+    100018: EndRFoot
+    100020: EndRHand
+    100022: EndRToe
+    100024: EndTail3
+    100026: Feeler
+    100028: Head
+    100030: Hips
+    100032: LArm
+    100034: LEar1
+    100036: LEar2
+    100038: LEar3
+    100040: LFoot
+    100042: LForeArm
+    100044: LHand
+    100046: LLeg
+    100048: LShoulder
+    100050: LThigh
+    100052: LToe
+    100054: Origin
+    100056: PikachuF
+    100058: pm0025_00_BodySkin
+    100060: pm0025_00_pikachu
+    100062: pm0025_01_SippoSkin
+    100064: RArm
+    100066: REar1
+    100068: REar2
+    100070: REar3
+    100072: RFoot
+    100074: RForeArm
+    100076: RHand
+    100078: RLeg
+    100080: RShoulder
+    100082: RThigh
+    100084: RToe
+    100086: Spine1
+    100088: Spine2
+    100090: Tail1
+    100092: Tail2
+    100094: Tail3
+    100096: VriVis01
+    100098: Waist
+    400000: //RootNode
+    400002: EndFeeler
+    400004: EndHead
+    400006: EndHips
+    400008: EndLEar3
+    400010: EndLFoot
+    400012: EndLHand
+    400014: EndLToe
+    400016: EndREar3
+    400018: EndRFoot
+    400020: EndRHand
+    400022: EndRToe
+    400024: EndTail3
+    400026: Feeler
+    400028: Head
+    400030: Hips
+    400032: LArm
+    400034: LEar1
+    400036: LEar2
+    400038: LEar3
+    400040: LFoot
+    400042: LForeArm
+    400044: LHand
+    400046: LLeg
+    400048: LShoulder
+    400050: LThigh
+    400052: LToe
+    400054: Origin
+    400056: PikachuF
+    400058: pm0025_00_BodySkin
+    400060: pm0025_00_pikachu
+    400062: pm0025_01_SippoSkin
+    400064: RArm
+    400066: REar1
+    400068: REar2
+    400070: REar3
+    400072: RFoot
+    400074: RForeArm
+    400076: RHand
+    400078: RLeg
+    400080: RShoulder
+    400082: RThigh
+    400084: RToe
+    400086: Spine1
+    400088: Spine2
+    400090: Tail1
+    400092: Tail2
+    400094: Tail3
+    400096: VriVis01
+    400098: Waist
+    2100000: 'Material #160'
+    2100002: 'Material #161'
+    2100004: 'Material #162'
+    2100006: 'Material #163'
+    4300000: PikachuF
+    7400000: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: PikachuF
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: EndFeeler
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: c4ddc8de61bf89e44a128091043ca578,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
